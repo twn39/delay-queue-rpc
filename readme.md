@@ -1,4 +1,6 @@
-### A generic job delay queue based on RabbitMQ
+### A generic job delay queue RPC based on RabbitMQ
+
+A simple delay queue RPC 2.0
 
 #### Install
 
